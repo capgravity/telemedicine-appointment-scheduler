@@ -1,6 +1,6 @@
 # This folder contains project documentation
 
-# intelligent-scheduler
+# Basic Project Structure
 
 - **app/**: React Native app codebase
   - `src/`: Source code for the app
