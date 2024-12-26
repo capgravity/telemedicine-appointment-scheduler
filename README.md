@@ -39,13 +39,12 @@ A comprehensive and user-friendly telemedicine platform designed to revolutioniz
 
 - **Backend**:  
   - Node.js and Express.js for a robust server-side architecture.  
-  - (Specify other backend technologies, e.g., authentication frameworks).  
 
 - **Database**:  
   - MongoDB for scalable and flexible data storage.  
 
 - **Deployment**:  
-  - (Specify hosting platforms, e.g., Vercel, AWS, or Netlify).  
+  - AWS , Vercel
 
 ---
 
@@ -55,7 +54,6 @@ A comprehensive and user-friendly telemedicine platform designed to revolutioniz
 > The entry point of the platform with a modern and attractive design.  
 **Screenshot 1:** Overview of the welcome interface.  
 ![Landing Page 1](./screenshots/landing-page-1.png)  
-
 **Screenshot 2:** Highlights key features and calls to action.  
 ![Landing Page 2](./screenshots/landing-page-2.png)  
 
@@ -65,7 +63,6 @@ A comprehensive and user-friendly telemedicine platform designed to revolutioniz
 > A dedicated dashboard and features tailored for the end-users (patients).  
 **Screenshot 1:** User dashboard showcasing appointments and wallet.  
 ![User Interface 1](./screenshots/user-dashboard-1.png)  
-
 **Screenshot 2:** Appointment booking and billing features.  
 ![User Interface 2](./screenshots/user-dashboard-2.png)  
 
@@ -75,7 +72,6 @@ A comprehensive and user-friendly telemedicine platform designed to revolutioniz
 > A separate admin panel for doctors to manage appointments and interact with patients.  
 **Screenshot 1:** Admin dashboard with detailed analytics and appointment overview.  
 ![Admin Interface 1](./screenshots/admin-dashboard-1.png)  
-
 **Screenshot 2:** Patient management and messaging features.  
 ![Admin Interface 2](./screenshots/admin-dashboard-2.png)  
 
